@@ -1,5 +1,7 @@
 # Convert Macrofun.hlp to Macrofun.chm
 
+ErrCode log 2018-03-01
+
 ## Problem Description
 
 Have you downloaded the Office Excel XLL SDK \(e.g. [Excel 2010 XLL SDK](https://www.microsoft.com/en-au/download/details.aspx?id=20199)\) only to find that the help doesn't seem to give you any specific information about the parameters to supply for when trying to use`xlfInput`?
