@@ -43,7 +43,7 @@ Following the initial steps provided by U.Kulle, I found that the output lacked 
 
 Unfortunately, this only helped for the `.BMP` image types - there were more `.MRB` files in the decompile directory that I didn't know what to do with and it took quite a bit of googling to find a tool that would help convert it. The `deark` tool was capable of converting the `.MRB` files \([apparently](http://fileformats.archiveteam.org/wiki/Segmented_Hypergraphics) `.MRB` stood for multiple resolution bitmap and is related to segmented hypergraphics that had the extension`.SHG`\) and spat out three differently sized `.BMP` files for each `.MRB` file. Choosing to only convert the largest to `.GIF` \(used [IrfanView](http://www.irfanview.com/)\) and moving them to the `images` folder finally allowed all images to appear in the output `CHM`.
 
-## TLDR; \(Alternative/faster way...\)
+## TL;DR \(Alternative/faster way...\)
 
 Well my efforts were soon obsoleted quickly when I came across this [forum thread](http://www.excelforum.com/tips-and-tutorials/1170158-xl4-macro-functions.html), which had a link to [get a PDF](https://www.myonlinetraininghub.com/excel-4-macro-functions) that documents the each Excel 4 Macro function. So much for all the effort to convert the old `HLP` to a `CHM` file - LOL!
 
